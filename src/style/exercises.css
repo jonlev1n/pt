@@ -1,0 +1,27 @@
+.grid-image {
+    display: block;
+    max-width: 500px;
+    max-height: 300px;
+    width: auto;
+    height: auto;
+}
+
+.vh-50 {
+    height: 50vh;
+}
+
+.vh-100 {
+    height: 100vh;
+}
+
+.count-text {
+    font-size: 5em;
+}
+
+.pt-img {
+    max-height: 50vh;
+}
+
+.arrow-icon {
+    transform: scale(1.8);
+}
